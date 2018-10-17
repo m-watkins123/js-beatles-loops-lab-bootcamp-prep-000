@@ -30,4 +30,3 @@ function iLoveTheBeatles(x){
   return loveThemToo //returns precious product
 
 }
-© 2018 GitHub, Inc.
